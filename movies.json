@@ -1,0 +1,9 @@
+{
+    "ver": 1,
+    "services": [
+        {
+            "name": "themoviedb.org",
+            "key": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMzU0YjkzZmQzNGVmNmYyMWQ2MzgxZGFiOTc1YTVmNyIsInN1YiI6IjY2NWNkZTA5MDlkNjMzMzdlOWI4OGNjNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.L7OUVZxA-YKxdRT8yuaSzYEsdbLak6Zg1B126Z9Osic"
+        }
+    ]
+}
